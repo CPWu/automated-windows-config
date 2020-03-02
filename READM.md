@@ -4,3 +4,10 @@ This repository contains a basic script that will install the basic tools necess
 
 The following software will be installed after the baseline depedency: chocolatey (Windows Package Manager) is installed.
 
+## Software Installed
+
+* [Chocolately] (https://chocolatey.org/) - Windows Software Management Solution
+* [Visual Studio Code]
+* [Git]
+* [Docker-Deskop Windows]
+* [Kubernetes CLI]
