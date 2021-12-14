@@ -11,3 +11,4 @@ choco install lens -y
 choco install azure-cli -y
 choco install googlechrome -y
 choco install velero -y
+choco install windowgrid -y
